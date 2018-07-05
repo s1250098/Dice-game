@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
 int main(){
   char a[20];
   printf("What is your name?\n");
